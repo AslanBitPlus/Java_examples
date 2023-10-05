@@ -11,10 +11,7 @@ public class Sem_01_z03 {
         int count = 0;
         int maxcount = 0;
 
-        // if (array[0] == 1) count = 1;
-
         for (int i = 1; i < array.length; i++) {
-            // System.out.println(count);
             if (array[i] == 1 & array[i - 1] == 1) {
                 if (count == 0) count = 2;
                 else count ++;
