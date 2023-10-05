@@ -1,4 +1,3 @@
-import java.time.LocalDateTime;
 import java.util.Scanner;
 
 /*
@@ -14,8 +13,8 @@ public class Sem_01_z01 {
     
         System.out.println("Введите ваше имя :");
         Scanner input = new Scanner(System.in);
-        String name1 = input.nextLine();
-        System.out.println("Привет " + name1);
+        String name = input.nextLine();
+        System.out.println("Привет " + name);
 }
 
 }
