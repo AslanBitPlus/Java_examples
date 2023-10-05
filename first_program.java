@@ -6,7 +6,7 @@ program.java
 Многострочный комментарий
  */
 // Однострочный комм
-public class program {
+public class first_program {
 
     public static void main(String[] args) {
         String s = "By World!";
