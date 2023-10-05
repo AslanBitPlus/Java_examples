@@ -12,7 +12,7 @@ public class Sem_01_z04 {
         String txt = "Добро пожаловать на курс по Java";
         String array[] = txt.split(" ");
 
-        System.out.println(array.length);
+        System.out.println(txt);
 
         String txt1 = array[array.length - 1];
         for (int i = array.length - 2; i >= 0; i--) {
