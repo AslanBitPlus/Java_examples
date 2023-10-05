@@ -6,7 +6,7 @@
 
 import javax.swing.JToolBar.Separator;
 
-public class seminar_01_z04 {
+public class Sem_01_z04 {
     public static void main(String[] args) {
 
         String txt = "Добро пожаловать на курс по Java";
